@@ -1,3 +1,8 @@
 # cs82a-portfolio
-Hello, my name is Xiomara, and this is for class 82a: Introduction to Data Science.
-Module 2: Python foundations
+# Xiomara Villeda - Data Science Portfolio
+
+Labs and final project from CS 82A: Introduction to Data Science
+at Santa Monica College (Fall 2026).
+
+## Contents
+- Module 2: Python foundations
