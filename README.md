@@ -6,3 +6,4 @@ at Santa Monica College (Fall 2026).
 
 ## Contents
 - Module 2: Python foundations
+- Module 3: Data cleaning
